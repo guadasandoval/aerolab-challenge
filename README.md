@@ -23,7 +23,7 @@
 
 ## Deploy
 
-Link: https://aerolab-ashy.vercel.app/
+Link: [https://aerolab-ashy.vercel.app/]
 
 ## Challenge 2022
 Link: https://github.com/Aerolab/frontend-developer-coding-challenge
