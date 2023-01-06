@@ -13,6 +13,6 @@
 - Cuando el usuario hace clic en el botón Canjear ahora, el sistema debería deducir automáticamente el precio del artículo de los puntos de los usuarios.
 - El usuario debe poder agregar puntos a su cuenta.
 
-#Deploy
+## Deploy
 
 Link: https://aerolab-ashy.vercel.app/
