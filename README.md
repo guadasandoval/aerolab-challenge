@@ -1,5 +1,7 @@
 # aerolab-challenge 2021
+
 ## Nivel 1
+
 - Hacer una versión de escritorio
 - Cada producto debe tener un precio visible en puntos.
 - Enlace al repositorio GitHub del proyecto (pie de página)
@@ -13,6 +15,15 @@
 - Cuando el usuario hace clic en el botón Canjear ahora, el sistema debería deducir automáticamente el precio del artículo de los puntos de los usuarios.
 - El usuario debe poder agregar puntos a su cuenta.
 
+## Stack :rainbow:
+
+- React
+- Chakra UI
+- Vercel
+
 ## Deploy
 
 Link: https://aerolab-ashy.vercel.app/
+
+## Challenge 2022
+Link: https://github.com/Aerolab/frontend-developer-coding-challenge
