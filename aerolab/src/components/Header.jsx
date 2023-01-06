@@ -12,9 +12,10 @@ export default function Header(props) {
         getUser()
     }, [])
 
-    const [points, setPoints] = useState(user.points);
+    const [points, setPoints] = useState(2000);
     const handlePoints = ()=>{
         setPoints(user.points = points + 1000)
+        console.log("agreego 1000");
     };
 
   
